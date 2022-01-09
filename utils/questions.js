@@ -18,7 +18,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'What kind of license do you want?',
-    choices: ['Apache 2.0','GNU', 'IBM', 'MIT', 'Mozilla', 'No License','Open Data Commons', 'Perl', 'SIL', 'Unlicense'],
+    choices: ['Apache 2.0','GNU GPL 3', 'IBM', 'MIT', 'Mozilla', 'No License','test'],
   },
   {
     type: 'input',
