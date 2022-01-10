@@ -7,11 +7,15 @@
 ## Table of Contents
 >[Author Name](#author-name) 
 
+>[Project Description](#project-description)
+
 >[Deployed Page/Application Link](#deployed-page) 
 
 >[GitHub Repo](#github-repo) 
 
->[Project Description](#project-description)
+>[GitHub Repo](#video-preview) 
+
+>[Preview Image](#preview)
 
 >[Installation](#installation)
 
@@ -21,8 +25,6 @@
 
 >[Contribution Guidelines](#contribution)
 
->[Preview Image](#preview)
-
 >[GitHub username](#github-username)
 
 >[Contact Me!](#contact-me-with-questions!)
@@ -30,18 +32,23 @@
 ## Author Name
 Kimberly Moran
 
+## Project Description
+Make your own README with node.js and inquirer!
+
 ## Deployed Page
 https://kimberlym4488.github.io/readMeMaker/
 
 ## GitHub Repo
 https://github.com/kimberlym4488/readMeMaker.git
 
+## Video Preview
+https://github.com/kimberlym4488/readMeMaker.git
 
-## Project Description
-Make your own README with node.js and inquirer!
+## Project Preview
+![Capture](https://user-images.githubusercontent.com/92805933/148717625-eebc99d6-989e-40c4-9ba0-fa73b7b663cd.PNG)
 
 ## Installation
-Install node.js and open "index.js" in the integrated terminal (bash preferrd). Run command "node index.js" and answer the prompts. Your README will be generated for you!
+Install node.js and open "index.js" in the integrated terminal (bash preferred). Run command "node index.js" and answer the prompts. Your README will be generated for you!
 
 ## Usage
 You can make a personalized README very quickly and easily with this tool.
@@ -51,9 +58,6 @@ n/a
 
 ## Contribution
 Anyone can contribute to this project.
-
-## Project Preview
-![Capture](https://user-images.githubusercontent.com/92805933/148717625-eebc99d6-989e-40c4-9ba0-fa73b7b663cd.PNG)
 
 ## GitHub userName
 kimberlym4488
