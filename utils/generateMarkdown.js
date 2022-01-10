@@ -33,6 +33,9 @@ function generateMarkdown({name, title, description, license, contribution, inst
 return `
 # ${title}
 
+## License
+${renderLicenseBadge(license)}
+
 ## Table of Contents
 >[Author Name](#author-name) 
 
@@ -49,8 +52,6 @@ return `
 >[GitHub username](#gitHub-username)
 
 >[Contact Me!](#contact-me-with-questions!)
-
->[License](#nodelicense)
 
 ## Author Name
 ${name}
@@ -75,9 +76,6 @@ ${github}
 
 ## Contact me with questions!
 ${email}
-
-## License
-${renderLicenseBadge(license)}
 
 `;
 }

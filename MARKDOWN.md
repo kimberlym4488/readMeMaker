@@ -1,5 +1,5 @@
 
-# sdfd
+# ReadMe Maker
 
 ## Table of Contents
 >[Author Name](#author-name) 
@@ -21,29 +21,29 @@
 >[License](#nodelicense)
 
 ## Author Name
-adsf
+Kim
 
-## Project Description
-dfds
+## > Project Description
+Generate a readMe using node.js and inquirer
 
 ## Installation
-fsdfsdf
+Open this file in gitHub, install node.js and then open the index.js file with node.js
 
 ## Usage
-sdf
+To generate quick, personalized readMe (Markdown) files
 
 ## Test Instructions
-sdfsdf
+I'm not sure
 
 ## Contribution
-sdfds
+Anyone can contribute and fork
 
 ## GitHub userName
-sdfd
+kimberlym4488
 
 ## Contact me with questions!
-sdf
+kmorandev@gmail.com
 
 ## License
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0) <br> License Link: <br>  https://opensource.org/licenses/IPL-1.0
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
 
