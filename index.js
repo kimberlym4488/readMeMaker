@@ -1,14 +1,14 @@
-// TODO: Include packages needed for this application
+//require certain packages to run, ask the questions, generate the file, and then write the file. 
+//Inquirer will prompt the user for the questions.
 const inquirer = require('inquirer')
+//Allows us to write the file
 const fs = require('fs')
+//contains the license badges and template literal to fill the MD
 const generateMD= require('./utils/generateMarkdown')
+//Questions we want to ask
 const questions = require('./utils/questions')
-// TODO: Create an array of questions for user input
 
-//prompt working but not importing build or questions from js 
-
-// TODO: Create a function to write README file
-//writeToFile = () => {
+//writes the answers and template literal to a new file for the user. Catches errors if applicable.
 inquirer
     .prompt(questions)
     
@@ -16,7 +16,7 @@ inquirer
     {
         fs.writeFile('MARKDOWN.md', generateMD(answers),
         (err) =>
-        err ? console.error(err) : console.log('Success'))
+        err ? console.error(err) : console.log('Success! Your "NewREADME.md" file is located in your files'))
     })
 
 .catch((error) =>{
@@ -26,8 +26,3 @@ inquirer
         }
     })
 
-/*//TODO: Create a function to initialize app
-init = () => writeToFile();
-
-// Function call to initialize app
-init();*/

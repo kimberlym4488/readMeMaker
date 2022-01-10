@@ -1,10 +1,15 @@
 
-# ReadMe Maker
+# sdfsd
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
 
 ## Table of Contents
 >[Author Name](#author-name) 
 
->[Project Description](#description)
+>[Deployed Page/Application Link](#deployed-page) 
+
+>[Project Description](#project-description)
 
 >[Installation](#installation)
 
@@ -14,36 +19,42 @@
 
 >[Contribution Guidelines](#contribution)
 
->[GitHub username](#gitHub-username)
+>[Preview Image](#preview)
+
+>[GitHub username](#github-username)
 
 >[Contact Me!](#contact-me-with-questions!)
 
->[License](#nodelicense)
-
 ## Author Name
-Kim
+df
 
-## > Project Description
-Generate a readMe using node.js and inquirer
+## Deployed Page
+sdfsdf
+
+## GitHub Repo
+sdfsdf
+
+## Project Description
+sdfsdf
 
 ## Installation
-Open this file in gitHub, install node.js and then open the index.js file with node.js
+sdfsdf
 
 ## Usage
-To generate quick, personalized readMe (Markdown) files
+sdfsdf
 
 ## Test Instructions
-I'm not sure
+sdfsd
 
 ## Contribution
-Anyone can contribute and fork
+sdfsdf
+
+## Preview
+sdfsdf
 
 ## GitHub userName
-kimberlym4488
+sdfsdf
 
 ## Contact me with questions!
-kmorandev@gmail.com
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
+sd
 

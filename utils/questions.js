@@ -1,3 +1,4 @@
+//Questions to export for inquirer to prompt the user
 const questions = [
   {
     type: 'input',
@@ -11,6 +12,16 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'pageURL',
+    message: 'What is the URL of your deployed page/application?',
+  },
+  {
+    type: 'input',
+    name: 'repoURL',
+    message: 'What is the URL of your project repository?',
+  },
+  {
+    type: 'input',
     name: 'description',
     message: 'Provide a description of your project.',
   },
@@ -18,7 +29,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'What kind of license do you want?',
-    choices: ['Apache 2.0','GNU GPL 3', 'IBM', 'MIT', 'Mozilla', 'No License','test'],
+    choices: ['Apache 2.0','GNU GPL 3', 'IBM', 'MIT', 'Mozilla', 'No License'],
   },
   {
     type: 'input',
@@ -42,6 +53,11 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'image',
+    message: 'Provide a preview image of your page/application',
+  },
+  {
+    type: 'input',
     name: 'github',
     message: 'What is your github user name?',
   },
@@ -50,6 +66,5 @@ const questions = [
     name: 'email',
     message: 'What is your e-mail address?',
   },
-]
-
+]//exporting the questions for inquirer
 module.exports = questions

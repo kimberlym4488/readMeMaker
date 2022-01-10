@@ -1,10 +1,10 @@
 
 
-// TODO: Create a function that returns a license badge based on which license is passed in
+// Returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license === 'Apache 2.0'){
-    return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)<br>  License Link:<br> https://opensource.org/licenses/Apache-2.0"}
+    return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) <br>  License Link:<br> https://opensource.org/licenses/Apache-2.0"}
 
     else if(license === 'GNU GPL V3') {
      return "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <br>  License Link: <br> https://www.gnu.org/licenses/gpl-3.0"}
@@ -19,17 +19,17 @@ function renderLicenseBadge(license) {
       return "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)<br>  License Link:<br>  https://opensource.org/licenses/MPL-2.0"}
  
     else if (license === 'No License'){
-        ""}
+       return ""}
          
     else{
-      `No license was selected.`
+      "No license was selected."
     }
   }
 
-//TODO: Create a function to generate markdown for README
+//Generates a markdown for README
 
-function generateMarkdown({name, title, description, license, contribution, installation, usage, testIns, github, email}) {
-  
+function generateMarkdown({name, title, description, license, contribution, image, repoURL, pageURL, installation, usage, testIns, github, email}) {
+  //template literal will fill the MARKDOWN.md file using the functions passed in and array objects above.
 return `
 # ${title}
 
@@ -39,7 +39,9 @@ ${renderLicenseBadge(license)}
 ## Table of Contents
 >[Author Name](#author-name) 
 
->[Project Description](#description)
+>[Deployed Page/Application Link](#deployed-page) 
+
+>[Project Description](#project-description)
 
 >[Installation](#installation)
 
@@ -49,14 +51,22 @@ ${renderLicenseBadge(license)}
 
 >[Contribution Guidelines](#contribution)
 
->[GitHub username](#gitHub-username)
+>[Preview Image](#preview)
 
->[Contact Me!](#contact-me-with-questions!)
+>[GitHub username](#github-username)
+
+>[Contact Me!](#contact-me-with-questions)
 
 ## Author Name
 ${name}
 
-## > Project Description
+## Deployed Page
+${pageURL}
+
+## GitHub Repo
+${repoURL}
+
+## Project Description
 ${description}
 
 ## Installation
@@ -71,14 +81,18 @@ ${testIns}
 ## Contribution
 ${contribution}
 
+## Preview
+${image}
+
 ## GitHub userName
 ${github}
 
-## Contact me with questions!
+## Contact me with questions
 ${email}
 
 `;
 }
 
+//Exports our template literal for import by index.js
 module.exports = generateMarkdown;
 
