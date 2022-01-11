@@ -16,7 +16,7 @@ inquirer
     {
         fs.writeFile('MARKDOWN.md', generateMD(answers),
         (err) =>
-        err ? console.error(err) : console.log('Success! Your "NewREADME.md" file is located in your files'))
+        err ? console.error(err) : console.log('Success! Your "MARKDOWN.md" file is located in your files'))
     })
 
 .catch((error) =>{
