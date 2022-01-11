@@ -5,27 +5,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
 
 ## Table of Contents
->[Author Name](#author-name) 
->[Project Description](#project-description)
-
->[Deployed Page/Application Link](#deployed-page) 
-
->[GitHub Repo](#github-repo) 
-
->[GitHub Repo](#video-preview) 
-
->[Preview Image](#preview)
-
->[Installation](#installation)
-
->[Usage](#usage)
-
->[Test Instructions](#test-instructions)
-
->[Contribution Guidelines](#contribution)
-
->[GitHub username](#github-username)
-
+>[Author Name](#author-name) <br>
+>[Project Description](#project-description)<br>
+>[Deployed Page/Application Link](#deployed-page) <br>
+>[GitHub Repo](#github-repo) <br>
+>[GitHub Repo](#video-preview) <br>
+>[Preview Image](#preview)<br>
+>[Installation](#installation)<br>
+>[Usage](#usage)<br>
+>[Test Instructions](#test-instructions)<br>
+>[Contribution Guidelines](#contribution)<br>
+>[GitHub username](#github-username)<br>
 >[Contact Me!](#contact-me-with-questions!)
 
 ## Author Name
@@ -41,7 +31,7 @@ https://kimberlym4488.github.io/readMeMaker/
 https://github.com/kimberlym4488/readMeMaker.git
 
 ## Video Preview
-https://github.com/kimberlym4488/readMeMaker.git
+https://drive.google.com/file/d/1ClpuSttFlkdzczJoQyX9Vb5qiYQ3d8fS/view?usp=sharing
 
 ## Project Preview
 ![Capture](https://user-images.githubusercontent.com/92805933/148717625-eebc99d6-989e-40c4-9ba0-fa73b7b663cd.PNG)
