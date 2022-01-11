@@ -37,25 +37,16 @@ return `
 ${renderLicenseBadge(license)}
 
 ## Table of Contents
->[Author Name](#author-name) 
-
->[Deployed Page/Application Link](#deployed-page) 
-
->[Project Description](#project-description)
-
->[Installation](#installation)
-
->[Usage](#usage)
-
->[Test Instructions](#test-instructions)
-
->[Contribution Guidelines](#contribution)
-
->[Preview Image](#preview)
-
->[GitHub username](#github-username)
-
->[Contact Me!](#contact-me-with-questions)
+>[Author Name](#author-name) <br>
+>[Deployed Page/Application Link](#deployed-page) <br>
+>[Project Description](#project-description)<br>
+>[Installation](#installation)<br>
+>[Usage](#usage)<br>
+>[Test Instructions](#test-instructions)<br>
+>[Contribution Guidelines](#contribution)<br>
+>[Preview Image](#preview)<br>
+>[GitHub username](#github-username)<br>
+>[Contact Me!](#contact-me-with-questions)<br>
 
 ## Author Name
 ${name}

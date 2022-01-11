@@ -6,7 +6,6 @@
 
 ## Table of Contents
 >[Author Name](#author-name) 
-
 >[Project Description](#project-description)
 
 >[Deployed Page/Application Link](#deployed-page) 
