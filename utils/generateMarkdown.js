@@ -28,7 +28,7 @@ function renderLicenseBadge(license) {
 
 //Generates a markdown for README
 
-function generateMarkdown({name, title, description, license, contribution, image, repoURL, pageURL, installation, usage, testIns, github, email}) {
+function generateMarkdown({name, title, description, license, contribution, image, video, repoURL, pageURL, installation, usage, testIns, github, email}) {
   //template literal will fill the MARKDOWN.md file using the functions passed in and array objects above.
 return `
 # ${title}
@@ -44,7 +44,8 @@ ${renderLicenseBadge(license)}
 >[Usage](#usage)<br>
 >[Test Instructions](#test-instructions)<br>
 >[Contribution Guidelines](#contribution)<br>
->[Preview Image](#preview)<br>
+>[Preview Image](#preview-image)<br>
+>[Video Walkthrough](#video-walkthrough)<br>
 >[GitHub username](#github-username)<br>
 >[Contact Me!](#contact-me-with-questions)<br>
 
@@ -72,7 +73,10 @@ ${testIns}
 ## Contribution
 ${contribution}
 
-## Preview
+## Video Walkthrough
+${video}
+
+## Preview Image
 ${image}
 
 ## GitHub userName

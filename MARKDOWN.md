@@ -1,8 +1,8 @@
 
-# Testing
+# Team Link Creator
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) <br>  License Link:<br> https://opensource.org/licenses/Apache-2.0
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
 
 ## Table of Contents
 >[Author Name](#author-name) <br>
@@ -12,40 +12,44 @@
 >[Usage](#usage)<br>
 >[Test Instructions](#test-instructions)<br>
 >[Contribution Guidelines](#contribution)<br>
+>[Video Walkthrough](#video)<br>
 >[Preview Image](#preview)<br>
->[GitHub username](#github-username)<br>
+>[GitHub](#github-username)<br>
 >[Contact Me!](#contact-me-with-questions)<br>
 
 ## Author Name
-Test
+Kimberly Moran
 
 ## Deployed Page
-Testing
+https://github.com/kimberlym4488/team-generator.git
 
 ## GitHub Repo
-Testing
+https://github.com/kimberlym4488/team-generator.git
 
 ## Project Description
-Testing
+ Using node.js, inquirer, and jest.js, this project generates a functional and responsive team HTML for a team manger. It includes prompts for things like name, id, email, github, school, type of employee, phone number. The questions are different based on which type of employee is being added. This project has separate test files to ensure functionality. 
 
 ## Installation
-Testing
+Open package.json and "Open in Integrated Terminal" from the list of options. Type "npm install" to install inquirer and bootstrap. NOTE: Node must also be installed. Then open "index.js" in your integrated terminal. You will then see questions prompted in your terminal. 
 
 ## Usage
-Testing
+As a manager, team lead, or someone responsible for creating/managing team contact information.
 
 ## Test Instructions
-Testing
+Open package.json in your integrated terminal and then type in npm install jest -D. Then right click on the test files under __test__ and type "npm run test" in your integrated terminal. You must have npm and Node installed.
 
 ## Contribution
-Testing
+To contribute to this project, please fork it from GitHub or open a new issue.
 
-## Preview
-Testing
+## Video Walkthrough
+https://drive.google.com/file/d/1FVczLyevkgpJjaoZ3O0C0aBk3TynOmre/view?usp=sharing
 
-## GitHub userName
-Testing
+## Preview Image
+https://user-images.githubusercontent.com/92805933/150625780-2073478b-30a6-4693-9701-30e88ab05096.PNG
+
+## GitHub Information
+kimberlym4488
 
 ## Contact me with questions
-Testing
+kmorandev@gmail.com
 

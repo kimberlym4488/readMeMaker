@@ -58,6 +58,11 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'video',
+    message: 'Provide a video walkthrough link for your application',
+  },
+  {
+    type: 'input',
     name: 'github',
     message: 'What is your github user name?',
   },
