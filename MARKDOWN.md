@@ -1,5 +1,5 @@
 
-# Team Link Creator
+# Equal Sql Employee Admin Tool
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br>  https://opensource.org/licenses/MIT
@@ -12,42 +12,43 @@
 >[Usage](#usage)<br>
 >[Test Instructions](#test-instructions)<br>
 >[Contribution Guidelines](#contribution)<br>
->[Video Walkthrough](#video)<br>
->[Preview Image](#preview)<br>
->[GitHub](#github-username)<br>
+>[Preview Image](#preview-image)<br>
+>[Video Walkthrough](#video-walkthrough)<br>
+>[GitHub username](#github-username)<br>
 >[Contact Me!](#contact-me-with-questions)<br>
 
 ## Author Name
-Kimberly Moran
+Kim Moran
 
 ## Deployed Page
-https://github.com/kimberlym4488/team-generator.git
+https://github.com/kimberlym4488/equal-sql-employee-admin-tool.git
 
 ## GitHub Repo
-https://github.com/kimberlym4488/team-generator.git
+https://github.com/kimberlym4488/equal-sql-employee-admin-tool.git
 
 ## Project Description
- Using node.js, inquirer, and jest.js, this project generates a functional and responsive team HTML for a team manger. It includes prompts for things like name, id, email, github, school, type of employee, phone number. The questions are different based on which type of employee is being added. This project has separate test files to ensure functionality. 
+Equal-SQL Tool is a content management system for creating a database of departments, roles, employees, and maangers. Using raw mySQL, inquirer, and node.js, this app is able to create, read, update, and delete multiple tables in a database. Javascript functionality is utilized with inquirer to allow a friendly user experience. A full menu with CRUD options is provided to the user along with concise tables allowing the user to quickly view data multiple ways.
 
 ## Installation
-Open package.json and "Open in Integrated Terminal" from the list of options. Type "npm install" to install inquirer and bootstrap. NOTE: Node must also be installed. Then open "index.js" in your integrated terminal. You will then see questions prompted in your terminal. 
+Copy the github repository and run an "npm install" in the package.json to install the necessary tools. Then run "node index.js" from your integrated terminal. Prompts should immediately appear with a full menu of options.
 
 ## Usage
-As a manager, team lead, or someone responsible for creating/managing team contact information.
+To manage a team of employees, managers and the relationships between their roles and departments in the organization.
 
 ## Test Instructions
-Open package.json in your integrated terminal and then type in npm install jest -D. Then right click on the test files under __test__ and type "npm run test" in your integrated terminal. You must have npm and Node installed.
+Install jest.js
 
 ## Contribution
-To contribute to this project, please fork it from GitHub or open a new issue.
+Please contact me to contribute.
 
 ## Video Walkthrough
-https://drive.google.com/file/d/1FVczLyevkgpJjaoZ3O0C0aBk3TynOmre/view?usp=sharing
+ https://watch.screencastify.com/v/3hFXaVFNGWo90Lke7HZv
 
 ## Preview Image
-https://user-images.githubusercontent.com/92805933/150625780-2073478b-30a6-4693-9701-30e88ab05096.PNG
+https://user-images.githubusercontent.com/92805933/152674445-fd86915c-b612-4738-bde4-085ba76701a0.PNG
+![Preview-Image-1](https://user-images.githubusercontent.com/92805933/152674445-fd86915c-b612-4738-bde4-085ba76701a0.PNG)
 
-## GitHub Information
+## GitHub userName
 kimberlym4488
 
 ## Contact me with questions

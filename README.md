@@ -34,6 +34,7 @@ https://github.com/kimberlym4488/readMeMaker.git
 https://drive.google.com/file/d/1ClpuSttFlkdzczJoQyX9Vb5qiYQ3d8fS/view?usp=sharing
 
 ## Project Preview
+https://user-images.githubusercontent.com/92805933/148717625-eebc99d6-989e-40c4-9ba0-fa73b7b663cd.PNG
 ![Capture](https://user-images.githubusercontent.com/92805933/148717625-eebc99d6-989e-40c4-9ba0-fa73b7b663cd.PNG)
 
 ## Installation
